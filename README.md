@@ -1,7 +1,7 @@
 is428
 =====
 
-<h2>SMU Visual Analytics on Twitter</h2>
+<h2>Visual Analytics on Twitter conversations</h2>
 
 
 The purpose of this project is to provide you with first-hand experience on collecting, processing and analysing large business data using real world data. A project may involve developing new methods or implementing visual analytics system to support analytic tasks in specific domains. Alternatively, a project may be in the form of application development by integrating analytical tools within a visual analytics environment. You are encouraged to focus on research topics that are relevant to your field of study. It should address a concrete visual analytics problem and should propose a novel and creative solution.

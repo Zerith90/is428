@@ -1,11 +1,11 @@
-Thiis is an SMU IS428 Visual Analytics project by:
+This is an SMU IS428 Visual Analytics project by:
 
-Miguel Riigen
-Sherman Tan
-Tan Siong Min
+<b>Miguel Riigen</b><br>
+<b>Sherman Tan</b><br>
+<b>Tan Siong Min</b>
 
 
-Summary:
+<h2>Summary:</h2>
 
 The purpose of this project is to provide you with first-hand experience on collecting, processing and analysing large business data using real world data. A project may involve developing new methods or implementing visual analytics system to support analytic tasks in specific domains. Alternatively, a project may be in the form of application development by integrating analytical tools within a visual analytics environment. You are encouraged to focus on research topics that are relevant to your field of study. It should address a concrete visual analytics problem and should propose a novel and creative solution.
 The project is to be done in a team. You are required to form a project team of 2-3 members by the second week of the academic term. Each project team must start thinking about their project ideas after the first lesson. You are expected to discuss your project topic and scope of works with the instructor during the third week of the academic term. A project website must be prepared and uploaded to the course wiki page by week 8.
